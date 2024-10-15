@@ -1,11 +1,12 @@
 # rubydora
+![deprecated](https://img.shields.io/badge/deprecated-red)
 
 Rubydora is a low-level Fedora Commons REST API consumer, providing direct
 access to REST API methods, as well as a primitive ruby abstraction.
 
 Code:
 [![Gem Version](https://badge.fury.io/rb/rubydora.png)](http://badge.fury.io/rb/rubydora)
-[![Build Status](https://circleci.com/gh/samvera/rubydora.svg?style=svg)](https://circleci.com/gh/samvera/rubydora)
+[![Build Status](https://circleci.com/gh/samvera-deprecated/rubydora.svg?style=svg)](https://circleci.com/gh/samvera-deprecated/rubydora)
 [![Coverage Status](https://coveralls.io/repos/github/samvera/rubydora/badge.svg?branch=main)](https://coveralls.io/github/samvera/rubydora?branch=main)
 
 Docs:
@@ -16,12 +17,7 @@ Community Support: [![Samvera Community Slack](https://img.shields.io/badge/samv
 
 ## Product Owner & Maintenance
 
-`rubydora` was a Core Component of the Samvera Community. Given a decline in available labor required for maintenance, this project no longer has a dedicated Product Owner. The documentation for what this means can be found [here](http://samvera.github.io/core_components.html#requirements-for-a-core-component).
-
-### Product Owner
-**Vacant**
-
-_Until a Product Owner has been identified, we ask that you please direct all requests for support, bug reports, and general questions to the [`#dev` Channel on the Samvera Slack](https://samvera.slack.com/app_redirect?channel=dev)._
+`rubydora` was a Core Component of the Samvera Community. Given a decline in available labor required for maintenance, this project no longer meets the requirements necessary to maintain its status as a core component. Following a public request to the community issued requesting labor needed to ensure that these requirements are met, this project has been deprecated. The documentation for what this means can be found [here](http://samvera.github.io/core_components.html#requirements-for-a-core-component).
 
 ## Help
 
